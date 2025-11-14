@@ -1,0 +1,7 @@
+{
+  "transactions": [
+    {"id":"1", "title": "Aluguel", "value": 50.00, "type": "outcome" },
+    {"id":"2", "title": "Salário", "value": 100.00, "type": "income" },
+    {"id":"3", "title": "Freelance", "value": 200.00, "type": "income" }
+  ]
+}
